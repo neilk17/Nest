@@ -1,7 +1,31 @@
 {
-  "Loos": [
+  "Stations": [
     {
-      "name": "Example",
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "location": [123, 123],
+    },
+    {
+      "name": "",
+      "location": [123, 123],
+    },
+    {
+      "name": "",
+      "location": [123, 123],
+    },
+    {
+      "name": "",
+      "location": [123, 123],
+    },
+    {
+      "name": "",
+      "location": [123, 123],
+    },
+    {
+      "name": "",
+      "location": [123, 123],
+    },
+    {
+      "name": "",
       "location": [123, 123],
     }, 
   ]
