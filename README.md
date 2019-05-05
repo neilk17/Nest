@@ -1,2 +1,2 @@
 # LooReview
-Android, toilet locating app for Mumbai. 
+Android, toilet locating app
